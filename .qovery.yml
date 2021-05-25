@@ -3,6 +3,7 @@ application:
   name: "nodejs-posgresql"
   project: "Quotes"
   organization: "QoveryCommunity"
+  port: 3000
 databases:
 - type: "POSTGRESQL"
   name: "quotes"
